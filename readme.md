@@ -1,0 +1,11 @@
+AWS_ACCESS_KEY_ID
+AWS_SECRET_ACCESS_KEY
+
+
+$env:AWS_ACCESS_KEY_ID="xxxx"
+$env:AWS_SECRET_ACCESS_KEY="xxxx"
+
+
+
+export AWS_ACCESS_KEY_ID="xxxx"
+export AWS_SECRET_ACCESS_KEY="xxxx"
