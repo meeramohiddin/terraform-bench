@@ -7,5 +7,5 @@ $env:AWS_SECRET_ACCESS_KEY="xxxx"
 
 
 
-export AWS_ACCESS_KEY_ID="xxxx"
-export AWS_SECRET_ACCESS_KEY="xxxx"
+export AWS_ACCESS_KEY_ID="xxxxx"
+export AWS_SECRET_ACCESS_KEY="xxxxx"
